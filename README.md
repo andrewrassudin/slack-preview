@@ -1,1 +1,3 @@
-# slack-preview
+# Preview
+
+Password-protected preview page.
